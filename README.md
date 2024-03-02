@@ -3,7 +3,7 @@
 Do:
 git clone https://github.com/codepk37/Ray-Tracing-CG-simple-renderer.git
 
-Report a
+###Ray traced beautiful output image are added in Reports:)
 
 Problem statement 1-3: mentions 3 problems,refer it for understanding problem statement and expected run command
 
