@@ -17,13 +17,14 @@ mkdir build
 cd build
 cmake ..
 ```
-
+ 
 If you are on windows, this should create a Visual Studio solution ```cs7302.sln``` in the build folder. Open it and compile. \
 If you are on linux/mac, you will need to run the following to compile :
 
 ```
 make -j8
 ```
+(as long as you dont modify code, wont need to recomplie make -j8  or rebuild solution ~second time)
 
 This makes executable /build/render in linux OR /build/debug/render.exe in windows 
 
