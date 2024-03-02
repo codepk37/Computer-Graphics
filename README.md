@@ -3,7 +3,7 @@
 Do:
 git clone https://github.com/codepk37/Computer-Graphics-Ray-Tracing-simple-renderer-.git
 
-
+Report a
 
 Problem statement 1-3: mentions 3 problems,refer it for understanding problem statement and expected run command
 
@@ -31,6 +31,6 @@ The path to scene config (typically named `config.json`) and the path of the out
 ./build/render <scene_path> <out_path> <additional arguments see problem statement or directly respective report>
 
 Example:
-on linux:  ./render "/home/popos/Computer_Graphics/scenes/Assignment 2/Question 2/Donuts/scene.json" "/home/popos/Computer_Graphics/test1.png" "0" 
-on windows: ./render.exe "/home/popos/Computer_Graphics/scenes/Assignment 2/Question 2/Donuts/scene.json" "/home/popos/Computer_Graphics/test2.png" "0"
+on linux:  ./render "/home/popos/Computer_Graphics/scenes/Assignment 2/Question 1/Donuts/scene.json" "/home/popos/Computer_Graphics/test1.png" "0" 
+on windows: ./render.exe "/home/popos/Computer_Graphics/scenes/Assignment 2/Question 1/Donuts/scene.json" "/home/popos/Computer_Graphics/test2.png" "0"
 ```
