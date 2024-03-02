@@ -1,7 +1,7 @@
 # Computer-Graphics
 
 Do:
-git clone https://github.com/codepk37/Computer-Graphics-Ray-Tracing-simple-renderer-.git
+git clone https://github.com/codepk37/Ray-Tracing-CG-simple-renderer.git
 
 Report a
 
