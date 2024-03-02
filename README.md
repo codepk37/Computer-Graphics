@@ -11,7 +11,7 @@ Steps :
 Go to main_rendeer/simple_renderer<1 or 2 or 3>
 
 
-## Compiling (Only once)
+## Compiling (Only once) in respective renderer<1 or 2 or 3>
 ```
 mkdir build
 cd build
