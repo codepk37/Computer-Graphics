@@ -19,11 +19,13 @@ cmake ..
 ```
 
 If you are on windows, this should create a Visual Studio solution ```cs7302.sln``` in the build folder. Open it and compile. \
-If you are on linux/mac, you will need to additionally run the following to compile:
+If you are on linux/mac, you will need to run the following to compile :
 
 ```
 make -j8
 ```
+
+This makes executable /build/render in linux OR /build/debug/render.exe in windows 
 
 ## Running (Each time for rendering image)
 The path to scene config (typically named `config.json`) and the path of the output image are passed using command line arguments as follows:
